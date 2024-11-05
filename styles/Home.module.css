@@ -1,0 +1,15 @@
+/* styles/Home.module.css */
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .header {
+    text-align: center;
+    font-size: 2em;
+  }
+  
+  .project {
+    margin: 20px 0;
+  }
